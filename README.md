@@ -8,7 +8,7 @@
 </p>
 
 ## Visão geral
-Este projeto tem como objetivo extrair e visualizar insights dos dados do Spotify usando Python, especificamente aproveitando o poder das bibliotecas Pandas e Matplotlib. O objetivo é obter informações sobre as preferências musicais pessoais, incluindo os principais artistas, número de reproduções por ano e número de reproduções divido por dias da semana.
+Este projeto tem como objetivo extrair e visualizar insights dos dados do Spotify usando Python, especificamente aproveitando o poder das bibliotecas Pandas e Matplotlib. O objetivo é obter informações sobre as preferências musicais pessoais, incluindo os principais artistas, número de reproduções por ano e número de reproduções dividido por dias da semana.
 
 ## Requisitos
 Para executar este projeto, você precisará do seguinte:
